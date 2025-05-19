@@ -14,9 +14,9 @@ Description: Analyzes images of fruits, vegetables, or crops to assess quality, 
 Input: High-resolution images of agricultural produce (RGB) captured using smartphones, cameras, or drones.
 Output: Classification of produce quality (e.g., good, overripe, diseased) and detection of defects or diseases using bounding boxes or segmentation masks.
 
-NAME: Stephina jose S
-REGISTER NUMBER: 960222243087
-YEAR: III
-DEPARTMENT: Artificial intelligence and data science
-INSTITUTION: Arunachala college of engineering for women
+NAME: Stephina jose S ,
+REGISTER NUMBER: 960222243087 ,
+YEAR: III ,
+DEPARTMENT: Artificial intelligence and data science ,
+INSTITUTION: Arunachala college of engineering for women.
 
